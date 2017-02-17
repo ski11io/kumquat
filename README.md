@@ -21,7 +21,7 @@ Tested with
  - Virtualbox 5.1.14
 
 
- simply run this at the base of your repo
+simply run this at the base of your repo
 
     vagrant up
 
