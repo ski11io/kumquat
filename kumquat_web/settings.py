@@ -90,7 +90,7 @@ DATABASES = {
 	},
 	'kumquat_mysql': {
 		'ENGINE':   'django.db.backends.mysql',
-		'HOST':     '192.168.15.238',
+		'HOST':     '127.0.0.1',
 		'USER':     'root',
 		'PASSWORD': 'qwe123',
 	}
