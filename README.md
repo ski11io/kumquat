@@ -13,6 +13,8 @@ Small scale virtual hosting portal.
 
 ## Vagrant dev box
 
+WARNING: still in developement, atm just the frontend works login etc are currently not possible
+
 Tested with
 
  - Vagrant 1.9.1
