@@ -13,7 +13,7 @@ Small scale virtual hosting portal.
 
 ## Vagrant dev box
 
-**WARNING: still in developement, atm full functionality is partially not available. See bug issues for details.**
+**WARNING: still in developement, atm functionality is partially not available. See bug issues for details.**
 
 Tested with
 
